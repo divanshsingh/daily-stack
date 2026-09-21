@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "The The Stack",
+    "version": "1.0.0",
+    "description": "A personal task tracker for daily consistency.",
+    "permissions": [
+        "storage",
+        "sidePanel"
+    ],
+    "action": {
+        "default_title": "The Daily Stack"
+    },
+    "background": {
+        "service_worker": "service-worker.js"
+    }, 
+    "side_panel": {
+        "default_path": "index.html"
+    }
+}
