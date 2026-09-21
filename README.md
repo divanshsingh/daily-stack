@@ -1,4 +1,4 @@
-<img width="1118" height="437" alt="upload" src="https://github.com/user-attachments/assets/6e97e3c6-db6f-4853-9e41-21f905a7b503" /><img width="1118" height="437" alt="upload" src="https://github.com/user-attachments/assets/9decd656-d829-4ea1-8fc9-ac2e462acdd9" /><img width="1466" height="252" alt="Developer mode" src="https://github.com/user-attachments/assets/7297f50a-e613-49f7-b956-8fc27407b03a" /><img width="236" height="144" alt="zip extracted" src="https://github.com/user-attachments/assets/094a6f35-8a76-4e9d-a860-54838fd55f9e" /># TDS — The Daily Stack
+# TDS — The Daily Stack
 
 TDS is a daily task tracker built as a Chromium side-panel extension. It helps you remember what you need to complete today, if you complete any one of your task your streak will increase and heatmap will be green just like leetcode and github all of this without creating an account just an extension.
 
@@ -33,16 +33,39 @@ TDS is a daily task tracker built as a Chromium side-panel extension. It helps y
 
 TDS is currently distributed manually through GitHub Releases.
 
-1. Download the latest `tds-extension.zip` from the [Releases](../../releases) page.
-2. Extract the ZIP file to a folder on your computer.
-<img width="236" height="144" alt="zip extracted" src="https://github.com/user-attachments/assets/c445ff9e-1a4d-4c48-a900-ed99dccef7c7" />
-3. In Chrome, Brave, or another Chromium-based browser, open `chrome://extensions`.
-<img width="1466" height="252" alt="Developer mode" src="https://github.com/user-attachments/assets/08b6c4b6-dccf-47b3-a669-99e421b36e97" />
-4. Turn on **Developer mode**.
-5. Click **Load unpacked** and select the extracted TDS folder.
-<img width="1118" height="437" alt="upload" src="https://github.com/user-attachments/assets/41bf2c8f-c71f-44b3-a38b-734a4c685cf6" />
-6. Click the TDS icon in your browser toolbar to open The Daily Stack in the side panel.
-<img width="1118" height="437" alt="upload" src="https://github.com/user-attachments/assets/543c172c-1e3b-432d-a6c3-63daba325c54" />
+### 1. Download TDS
+
+Download the latest `tds-extension.zip` from the [Releases](../../releases) page.
+
+### 2. Extract the ZIP
+
+Extract `tds-extension.zip` to a folder on your computer.
+
+<img width="236" height="144" alt="Extract the ZIP file" src="https://github.com/user-attachments/assets/c445ff9e-1a4d-4c48-a900-ed99dccef7c7" />
+
+### 3. Open the Extensions page
+
+In Chrome, Brave, or another Chromium-based browser, open:
+
+`chrome://extensions`
+
+<img width="1466" height="252" alt="Chrome Extensions page" src="https://github.com/user-attachments/assets/08b6c4b6-dccf-47b3-a669-99e421b36e97" />
+
+### 4. Enable Developer Mode
+
+Turn on **Developer mode** from the top-right corner.
+
+### 5. Load TDS
+
+Click **Load unpacked** and select the folder where you extracted the TDS extension.
+
+<img width="1118" height="437" alt="Load unpacked extension" src="https://github.com/user-attachments/assets/41bf2c8f-c71f-44b3-a38b-734a4c685cf6" />
+
+### 6. Open The Daily Stack
+
+Click the TDS extension icon in your browser toolbar to open **The Daily Stack** in the side panel.
+
+<img width="350" height="472" alt="tds extension" src="https://github.com/user-attachments/assets/63d27a17-6ca2-47d2-a7df-0a5add76ffc4" />
 
 
 ## Privacy
